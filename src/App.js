@@ -7,7 +7,7 @@ function App() {
 
   let [game, changeGame] = useState(
     [
-    [2,4,2,4],
+    [2,2,2,4],
     [0,4,4,2],
     [0,8,0,2],
     [2,8,4,2]]
